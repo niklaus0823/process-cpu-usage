@@ -1,0 +1,21 @@
+{
+  "name": "node-process-cpu-usage",
+  "version": "0.0.3",
+  "author": "fengjie",
+  "description": "Calc the percentage cpu usage of node process",
+  "main": "build/index.js",
+  "homepage": "https://github.com/niklaus0823/process-cpu-usage#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niklaus0823/process-cpu-usage.git"
+  },
+  "bugs": "https://github.com/niklaus0823/process-cpu-usage/issues",
+  "engines": {
+    "node": ">=8"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^9.4.7"
+  }
+}
